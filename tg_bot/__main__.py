@@ -19,20 +19,24 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 ഹായ് {}, എന്റെ പേര് {}! എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help കൊടുത്താൽ മതിയാകും... 
-എന്റെ ന്യൂ ഫീച്ചേർസ് ചാനലിൽ @MarieChechi ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @InFoTelGroup എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
+എന്റെ ന്യൂ ഫീച്ചേർസ് ചാനലിൽ @DXMBOTS ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @DXMBOTS എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
 
 എന്നെ നോക്കി നടത്തുന്നത്  [ഇദ്ദേഹം](tg://user?id={}) ആണ് . എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
 python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക് [ഇവിടെ](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie_Chechi2.0) കാണാവുന്നതാണ്...
 എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും..
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
-
-Using standard [Marie](http://telegram.dog/BanhammerMarie_bot) is always gonna be easier.
-എന്റെ ചേച്ചിയായ [Marie](http://telegram.dog/BanhammerMarie_bot) ഉപയോഗിക്കുന്നത് എല്ലായ്പ്പോഴും എളുപ്പമായിരിക്കും. മേരി ചേച്ചിക്ക് English മാത്രമേ അറിയൂ..
-
+ അപ്ഡേറ്റ് വിവരങ്ങൾക്ക് @DXMBOTS ജോയിൻ ചെയ്യൂ
+ യൂട്യൂബ് ചാനൽ സബ്സ്ക്രൈബ് ചെയ്യാമോ link [K4TECH](https://youtube.com/channel/UCrQQJGsaHEnUtFfcLB95iGQ)
+ ഈ ചാനൽ നിങ്ങൾ നിർബന്ധമായും സബ്സ്ക്രൈബ് ചെയ്യണം എന്നാൽ മാത്രമേ അപ്ഡേറ്റ് വിവരങ്ങൾ ലഭിക്കു
+ പിന്നെ നിങ്ങൾ അപ്ഡേറ്റ് ചാനലിൽ ജോയിൻ ചെയ്യണേ
+ [Update channel](https://t.me/DXMBOTS)
+ [Support group ](https://t.me/DXMBOTZ)
+ [Devalaper](https://t.me/devalaper)
 """
 
 HELP_STRINGS = """
 നമസ്കാരം ! എന്റെ പേര് *{}*.
+
 
 ഞാൻ ടെലെഗ്രാമിലെ Group Management Bot ആണ്... എന്നെ പ്രവർത്തിപ്പിക്കേണ്ട വിധം ആണ് താഴെ കൊടുത്തിട്ടുള്ളത്....
 
@@ -44,6 +48,23 @@ HELP_STRINGS = """
  - /settings:
    - in PM:നിങ്ങൾ സെറ്റ് ചെയ്തിട്ടുള്ള SETTINGS എന്തൊക്കെ ആണെന്ന് അറിയാൻ....
    - in a group:ഗ്രൂപ്പിൽ കൊടുത്താലും  PMൽ settings വരുന്നതാണ്....
+ [Update channel](https://t.me/DXMBOTS)
+ [Support group ](https://t.me/DXMBOTZ)
+ [Devalaper](https://t.me/devalaper)
+ എങ്ങനെ ഉണ്ടാക്കാൻ സഹായിച്ചത്
+[MVP](tg://user?id={1272217573})
+[Jalal.N](tg://user?id={1125370012})
+ എന്നെ ഉണ്ടാക്കിയത്
+[Devalaper](https://t.me/@devalaper)
+ എന്നെ കോഡിലൂടെ നിർമ്മിച്ചത്
+[ മുത്ത് ](tg://user?id={})
+ നിങ്ങൾക്ക് പൈസ കൊടുത്തിട്ട് ബോട്ട് ഉണ്ടാക്കാം അതിനായി അവന് റെഡീം കോഡ് ആണ് കൊടുക്കേണ്ടത്
+ അപ്പോൾ ഒരു pro റോബോട്ടിനെ ഉണ്ടാക്കാം 
+ നിങ്ങളെ റെഡീം കോഡ് അയച്ചു കൊടുക്കേണ്ടത്
+[Devalaper](https://t.me/devalaper) ആണ്
+ അപ്പോൾ നിങ്ങൾക്ക് ഒരു പ്രോ ബോട്ട് ഉണ്ടാക്കാം
+ ( ഞാനൊരു ഗ്രൂപ്പ് മാനേജ്മെന്റ് ബോട്ടാണ് നിങ്ങൾക്ക് എന്നെ കുറിച്ച് അറിയണമെങ്കിൽ കോൺടാക്ട്  @devalaper പക്ഷേ എന്നെ നോക്കി നടത്തുന്നത് [ഇദ്ദേഹം](tg://user?id={}) ഇദ്ദേഹം കാരണമാണ്  ഞാൻ ജീവിച്ചിരിക്കുന്നത് ജീവിച്ചിരിക്കുന്നത് TANKS 
+[TANKS](tg://user?id={}
 
 {}
 And the following:
